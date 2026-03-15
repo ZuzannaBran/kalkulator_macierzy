@@ -1,0 +1,12 @@
+Load test1.mx       >test1
+    Print                   test1
+Load test2.mx>           test2
+Print test2
+List
+ilo=test1*            test2
+        Print        ilo
+con     = ilo #test1
+Print con
+
+Txt con >con.txt
+List

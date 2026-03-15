@@ -1,0 +1,50 @@
+	Load sk4_2_3.mx  > M1				
+
+Load sk4_err1.mx > m123
+Load sk4_err2.mx > m123
+Load sk4_err3.mx > m123
+Load sk4_err4.mx > m123
+Load sk4_err5.mx > m123
+
+
+Load sk4_2_3.mx  > m1				
+
+Load sk4_2_3.mx  		> 	m1	
+
+Load sk4_2_3.mx>m2
+
+sum1 = m1 - m2
+
+Load
+
+				
+	Load sk4_2_3.mx
+
+aaaaaa
+
+sum1 = m1 - m2
+sum2 = m1 - m2
+
+total1	=	sum1	# m1			
+Print 	total1
+
+Txt   sum1>
+Txt   sum1>	sum1.txt
+Print sum1
+
+Delete	sum1
+Print 	sum1
+
+sum1 = m1 - m2
+
+Save s u m 1 > mymatrix.bin
+
+Save sum1 > mymatrix.bin
+
+	Load 		mymatrix.bin > final
+Print		final					
+
+List
+
+
+		
